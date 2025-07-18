@@ -1,4 +1,4 @@
-# Thomas Bogard — _bogardt_ 👋
+# bogardt 👋
 
 Paris‑based software engineer pivoting from **10 years of C# enterprise development** to the fast‑moving world of **blockchain infrastructure & DeFi bots**.  
 I’m currently focused on:
