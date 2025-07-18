@@ -1,51 +1,62 @@
+# Thomas Bogard — _bogardt_ 👋
+
+Paris‑based software engineer pivoting from **10 years of C# enterprise development** to the fast‑moving world of **blockchain infrastructure & DeFi bots**.  
+I’m currently focused on:
+
+* **Solana back‑running / copy‑trading** — ultra‑low‑latency mempool ingestion (Yellowstone gRPC) and bundle submission.
+* **StarkNet & Cairo** — zero‑knowledge friendly L2 where I’m rewriting classic Solidity patterns in Cairo.
+* Privacy‑preserving, decentralised architectures.
+
+> “Privacy, security and decentralisation first.” :contentReference[oaicite:0]{index=0}
+
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=600&lines=👨🏻‍💻Developer+and+Blockchain+Enthusiast+👇👇👇.++++++++++)](https://git.io/typing-svg)
+## 🔭 Highlight Projects
 
-<div align="left">
-    <img src="over.gif" style="width: 400px">
+| Repo | What it does |
+|------|--------------|
+| **`sniper_bot_gulf_stream`** | Copy‑trading bot: Gulf Stream / Yellowstone mempool → Pump.fun & Raydium swaps, Jito bundles, dynamic TP/SL. |
+| **`bullmq_rust`** | Type‑safe Rust client for BullMQ queues (bridging NodeJS workflows with Rust micro‑services). :contentReference[oaicite:1]{index=1} |
+
+*(See all 37 repos and 180 + stars on my profile.)* :contentReference[oaicite:2]{index=2}
+
+---
+
+## 🛠️  Tech Stack
+
+| Chain | Stack |
+|-------|-------|
+| **Solana** | `solana-sdk 1.18`, SPL 4.x, Jito / Yellowstone, Rust 1.79 |
+| **EVM / L2** | Solidity 0.8, Hardhat, Foundry, StarkNet ‑ Cairo 2 |
+| **Backend** | Rust (tokio, tonic), C# /.NET 6, NodeJS 18 |
+| **Tooling** | GitHub Actions, Docker, Grafana/Prometheus, VS Code |
+
+---
+
+## 📈  GitHub at a glance
+
+* **33 followers · 40 following**  
+* **182 stars given**  
+* Active at **00:27 UTC+2 (Paris)** — expect late‑night commits. :contentReference[oaicite:3]{index=3}  
+* Trophies: _Pair Extraordinaire_, _YOLO_, _Quickdraw_ — I like quick POCs and pair‑reviews. :contentReference[oaicite:4]{index=4}  
+
+---
+
+## 🤝  Let’s connect
+
+| Platform | Link |
+|----------|------|
+| GitHub   | <https://github.com/bogardt> |
+| LinkedIn | <https://www.linkedin.com/in/thomas-bogard-bb03b9b9/> |
+
+Open to freelance or collab on Rust blockchain infra, MEV‑related R&D, or porting legacy stacks to web3.
+
+---
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=380&height=45&lines=Building+on+Solana...;Rust+all+the+things!;Scaling+with+StarkNet)<br>
+
+_“Code hard, sleep later.”_
+
 </div>
-      
-## 👋 Hello everyone, I am [Bogardt!](https://github.com/bogardt?tab=repositories)
-
-#### - 👨🏻‍💻 &nbsp; Blockchain user and passionate about innovative solutions. Privacy, security, and decentralization.
-#### - 🌱 &nbsp; Learning to develop Smart Contracts, Solidity, Cairo, ETH L1-L2 scalability solutions like Starknet and ZK Proof.
-#### - 🎓 &nbsp; Focused on Cairo and Starknet, learning their concepts and languages.
-#### - 💪 &nbsp; Collaborating with some great communities and learning together.
-#### - 💻 &nbsp; Extensive experience with C# development and expanding into blockchain development with Solidity and Cairo on Starknet.
-
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=600&lines=🛠💻+Skills+and+Tools.++++++++++)](https://git.io/typing-svg) 
-
-
-[![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Starknet](https://img.shields.io/badge/-%F0%9F%8C%9A%20%20STARKNET-blue?style=for-the-badge&flat&logo=Starknet)](https://starknet.io/)
-[![Cairo](https://img.shields.io/badge/-%F0%9F%90%AB%20%20Cairo-red?style=for-the-badge&flat&logo=Cairo)](https://www.cairo-lang.org/)
-[![Hardhat](https://img.shields.io/badge/-👷Hardhat-659ad2?style=for-the-badge&flat&logo=&color=282826)](https://hardhat.org/)
-[![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://docs.soliditylang.org/en/v0.8.17/)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&flat&logo=python)](https://docs.python.org/)
-
-[![Git](https://github.com/bogardt)]() 
-[![GitHub](https://github.com/bogardt)]() 
-[![Visual Studio Code](https://github.com/bogardt)]() 
-
-[![Windows](https://github.com/bogardt)]() 
-[![Linux](https://github.com/bogardt)]() 
-
------
-
-<br/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bogardt&show_icons=true&count_private=true&layout=compact&theme=highcontrast" />
-</a>
-
----
-
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=bogardt&show_icons=true&count_private=true&layout=compact&theme=highcontrast" alt="Bogardt" />
-
-
-```
