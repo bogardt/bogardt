@@ -33,15 +33,6 @@ I’m currently focused on:
 
 ---
 
-## 📈  GitHub at a glance
-
-* **33 followers · 40 following**  
-* **182 stars given**  
-* Active at **00:27 UTC+2 (Paris)** — expect late‑night commits. :contentReference[oaicite:3]{index=3}  
-* Trophies: _Pair Extraordinaire_, _YOLO_, _Quickdraw_ — I like quick POCs and pair‑reviews. :contentReference[oaicite:4]{index=4}  
-
----
-
 ## 🤝  Let’s connect
 
 | Platform | Link |
@@ -56,7 +47,5 @@ Open to freelance or collab on Rust blockchain infra, MEV‑related R&D, or port
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=380&height=45&lines=Building+on+Solana...;Rust+all+the+things!;Scaling+with+StarkNet)<br>
-
-_“Code hard, sleep later.”_
 
 </div>
