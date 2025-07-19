@@ -15,9 +15,9 @@ I’m currently focused on:
 
 | Repo | What it does |
 |------|--------------|
-| **`grpc_copy_trading_bot_rust`** | Copy‑trading bot: Gulf Stream / Yellowstone mempool → Pump.fun & Raydium swaps, Jito bundles, dynamic TP/SL. |
-| **`grpc_sniper_bot_rust`** | Copy‑trading bot: Gulf Stream / Yellowstone mempool → Pump.fun & Raydium swaps, Jito bundles, dynamic TP/SL. |
-| **`bullmq_rust`** | Type‑safe Rust client for BullMQ queues (bridging NodeJS workflows with Rust micro‑services). :contentReference[oaicite:1]{index=1} |
+| **`grpc_copy_trading_bot_rs`** | Copy‑trading bot: Gulf Stream / Yellowstone mempool → Pump.fun & Raydium swaps, Jito bundles, dynamic TP/SL. |
+| **`grpc_sniper_bot_rs`** | Sniper bot: Gulf Stream / Yellowstone mempool → Pump.fun & Bonk & Raydium swaps, Jito bundles, dynamic TP/SL. |
+| **`bullmq_rs`** | Type‑safe Rust client for BullMQ queues (bridging NodeJS workflows with Rust micro‑services). :contentReference[oaicite:1]{index=1} |
 
 *(See all 37 repos and 180 + stars on my profile.)* :contentReference[oaicite:2]{index=2}
 
