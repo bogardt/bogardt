@@ -40,6 +40,7 @@ I’m currently focused on:
 |----------|------|
 | GitHub   | <https://github.com/bogardt> |
 | LinkedIn | <https://www.linkedin.com/in/thomas-bogard-bb03b9b9/> |
+| LinkedIn | <https://www.linkedin.com/in/thomas-bogard-bb03b9b9/> |
 
 Open to freelance or collab on Rust blockchain infra, MEV‑related R&D, or porting legacy stacks to web3.
 
