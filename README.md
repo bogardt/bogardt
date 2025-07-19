@@ -13,8 +13,8 @@ I’m currently focused on:
 
 ## 🔭 Highlight Projects
 
-| Repo | What it does |
-|------|--------------|
+|  Repository  | What it does |
+|--------------|--------------|
 | **`solana-grpc-copy-trading-bot-rs`** | Copy‑trading bot: Gulf Stream / Yellowstone mempool → Pump.fun & Raydium swaps, Jito bundles, dynamic TP/SL. |
 | **`solana-grpc-sniper-bot-rs`** | Sniper bot: Gulf Stream / Yellowstone mempool → Pump.fun & Bonk & Raydium swaps, Jito bundles, dynamic TP/SL. |
 | **`bullmq_rs`** | Type‑safe Rust client for BullMQ queues (bridging NodeJS workflows with Rust micro‑services). |
