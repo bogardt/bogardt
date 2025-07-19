@@ -7,7 +7,7 @@ I’m currently focused on:
 * **StarkNet & Cairo** — zero‑knowledge friendly L2 where I’m rewriting classic Solidity patterns in Cairo.
 * Privacy‑preserving, decentralised architectures.
 
-> “Privacy, security and decentralisation first.” :contentReference[oaicite:0]{index=0}
+> “Privacy, security and decentralisation first.”
 
 ---
 
