@@ -27,9 +27,9 @@ I’m currently focused on:
 
 | Chain | Stack |
 |-------|-------|
-| **Solana** | `solana-sdk 1.18`, SPL 4.x, Jito / Yellowstone, Rust 1.79 |
-| **EVM / L2** | Solidity 0.8, Hardhat, Foundry, StarkNet ‑ Cairo 2 |
-| **Backend** | Rust (tokio, tonic), C# /.NET 6, NodeJS 18 |
+| **Solana** | `solana-sdk`, SPL 4.x, Jito / Yellowstone, Rust |
+| **EVM / L2** | Solidity, Hardhat, Foundry, StarkNet ‑ Cairo  |
+| **Backend** | Rust (tokio, tonic), C# /.NET, NodeJS  |
 | **Tooling** | GitHub Actions, Docker, Grafana/Prometheus, VS Code |
 
 ---
