@@ -20,11 +20,3 @@ I’m currently focused on:
 | LinkedIn | <https://www.linkedin.com/in/thomas-bogard-bb03b9b9/> |
 
 Open to freelance or collab on Rust blockchain infra, MEV‑related R&D, or porting legacy stacks to web3.
-
----
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=380&height=45&lines=Building+on+Solana...;Rust+all+the+things!;Scaling+with+StarkNet)<br>
-
-</div>
