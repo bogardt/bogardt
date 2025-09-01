@@ -11,29 +11,6 @@ I’m currently focused on:
 
 ---
 
-## 🔭 Highlight Projects
-
-|  Repository  | What it does |
-|--------------|--------------|
-| **`solana-grpc-copy-trading-bot-rs`** | Copy‑trading bot: Gulf Stream / Yellowstone mempool → Pump.fun & Raydium swaps, Jito bundles, dynamic TP/SL. |
-| **`solana-grpc-sniper-bot-rs`** | Sniper bot: Gulf Stream / Yellowstone mempool → Pump.fun & Bonk & Raydium swaps, Jito bundles, dynamic TP/SL. |
-| **`bullmq_rs`** | Type‑safe Rust client for BullMQ queues (bridging NodeJS workflows with Rust micro‑services). |
-
-*(See all 37 repos and 180 + stars on my profile.)* :contentReference[oaicite:2]{index=2}
-
----
-
-## 🛠️  Tech Stack
-
-| Chain | Stack |
-|-------|-------|
-| **Solana** | `solana-sdk`, SPL 4.x, Jito / Yellowstone, Rust |
-| **EVM / L2** | Solidity, Hardhat, Foundry, StarkNet ‑ Cairo  |
-| **Backend** | Rust (tokio, tonic), C# /.NET, NodeJS  |
-| **Tooling** | GitHub Actions, Docker, Grafana/Prometheus, VS Code |
-
----
-
 ## 🤝  Let’s connect
 
 | Platform | Link |
